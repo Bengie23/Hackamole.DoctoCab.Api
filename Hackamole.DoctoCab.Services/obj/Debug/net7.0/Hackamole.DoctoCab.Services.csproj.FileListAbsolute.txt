@@ -1,0 +1,17 @@
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/bin/Debug/net7.0/Hackamole.DoctoCab.Services.deps.json
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/bin/Debug/net7.0/Hackamole.DoctoCab.Services.dll
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/bin/Debug/net7.0/Hackamole.DoctoCab.Services.pdb
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/bin/Debug/net7.0/Hackamole.DoctoCab.Data.dll
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/bin/Debug/net7.0/Hackamole.DoctoCab.Domain.dll
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/bin/Debug/net7.0/Hackamole.DoctoCab.Data.pdb
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/bin/Debug/net7.0/Hackamole.DoctoCab.Domain.pdb
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/obj/Debug/net7.0/Hackamole.DoctoCab.Services.csproj.AssemblyReference.cache
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/obj/Debug/net7.0/Hackamole.DoctoCab.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/obj/Debug/net7.0/Hackamole.DoctoCab.Services.AssemblyInfoInputs.cache
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/obj/Debug/net7.0/Hackamole.DoctoCab.Services.AssemblyInfo.cs
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/obj/Debug/net7.0/Hackamole.DoctoCab.Services.csproj.CoreCompileInputs.cache
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/obj/Debug/net7.0/Hackamole.DoctoCab.Services.csproj.CopyComplete
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/obj/Debug/net7.0/Hackamole.DoctoCab.Services.dll
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/obj/Debug/net7.0/refint/Hackamole.DoctoCab.Services.dll
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/obj/Debug/net7.0/Hackamole.DoctoCab.Services.pdb
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Services/obj/Debug/net7.0/ref/Hackamole.DoctoCab.Services.dll

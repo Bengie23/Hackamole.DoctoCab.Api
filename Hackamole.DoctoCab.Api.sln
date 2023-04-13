@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackamole.DoctoCab.Api", "Hackamole.DoctoCab.Api\Hackamole.DoctoCab.Api.csproj", "{C36AB92B-EE21-430A-ACD1-A0B07F69CD3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackamole.DoctoCab.Domain", "Hackamole.DoctoCab.Domain\Hackamole.DoctoCab.Domain.csproj", "{D6A1CF29-E07C-4B75-9CFA-AAB3054A08F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackamole.DoctoCab.Data", "Hackamole.DoctoCab.Data\Hackamole.DoctoCab.Data.csproj", "{D76EA257-7F95-453A-A35A-3FEF9614FA27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackamole.DoctoCab.Services", "Hackamole.DoctoCab.Services\Hackamole.DoctoCab.Services.csproj", "{A0854AE7-880D-4076-9CAE-E68487DD6332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C36AB92B-EE21-430A-ACD1-A0B07F69CD3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36AB92B-EE21-430A-ACD1-A0B07F69CD3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36AB92B-EE21-430A-ACD1-A0B07F69CD3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36AB92B-EE21-430A-ACD1-A0B07F69CD3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A1CF29-E07C-4B75-9CFA-AAB3054A08F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A1CF29-E07C-4B75-9CFA-AAB3054A08F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A1CF29-E07C-4B75-9CFA-AAB3054A08F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A1CF29-E07C-4B75-9CFA-AAB3054A08F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76EA257-7F95-453A-A35A-3FEF9614FA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76EA257-7F95-453A-A35A-3FEF9614FA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76EA257-7F95-453A-A35A-3FEF9614FA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76EA257-7F95-453A-A35A-3FEF9614FA27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0854AE7-880D-4076-9CAE-E68487DD6332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0854AE7-880D-4076-9CAE-E68487DD6332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0854AE7-880D-4076-9CAE-E68487DD6332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0854AE7-880D-4076-9CAE-E68487DD6332}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

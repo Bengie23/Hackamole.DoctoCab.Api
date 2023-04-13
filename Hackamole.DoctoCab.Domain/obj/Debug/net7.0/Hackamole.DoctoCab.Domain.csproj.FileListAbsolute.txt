@@ -1,0 +1,12 @@
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Domain/bin/Debug/net7.0/Hackamole.DoctoCab.Domain.deps.json
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Domain/bin/Debug/net7.0/Hackamole.DoctoCab.Domain.dll
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Domain/bin/Debug/net7.0/Hackamole.DoctoCab.Domain.pdb
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Domain/obj/Debug/net7.0/Hackamole.DoctoCab.Domain.csproj.AssemblyReference.cache
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Domain/obj/Debug/net7.0/Hackamole.DoctoCab.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Domain/obj/Debug/net7.0/Hackamole.DoctoCab.Domain.AssemblyInfoInputs.cache
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Domain/obj/Debug/net7.0/Hackamole.DoctoCab.Domain.AssemblyInfo.cs
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Domain/obj/Debug/net7.0/Hackamole.DoctoCab.Domain.csproj.CoreCompileInputs.cache
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Domain/obj/Debug/net7.0/Hackamole.DoctoCab.Domain.dll
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Domain/obj/Debug/net7.0/refint/Hackamole.DoctoCab.Domain.dll
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Domain/obj/Debug/net7.0/Hackamole.DoctoCab.Domain.pdb
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Domain/obj/Debug/net7.0/ref/Hackamole.DoctoCab.Domain.dll

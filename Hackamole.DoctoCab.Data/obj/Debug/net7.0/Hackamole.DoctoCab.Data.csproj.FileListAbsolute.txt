@@ -1,0 +1,15 @@
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Data/bin/Debug/net7.0/Hackamole.DoctoCab.Data.deps.json
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Data/bin/Debug/net7.0/Hackamole.DoctoCab.Data.dll
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Data/bin/Debug/net7.0/Hackamole.DoctoCab.Data.pdb
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Data/bin/Debug/net7.0/Hackamole.DoctoCab.Domain.dll
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Data/bin/Debug/net7.0/Hackamole.DoctoCab.Domain.pdb
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Data/obj/Debug/net7.0/Hackamole.DoctoCab.Data.csproj.AssemblyReference.cache
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Data/obj/Debug/net7.0/Hackamole.DoctoCab.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Data/obj/Debug/net7.0/Hackamole.DoctoCab.Data.AssemblyInfoInputs.cache
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Data/obj/Debug/net7.0/Hackamole.DoctoCab.Data.AssemblyInfo.cs
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Data/obj/Debug/net7.0/Hackamole.DoctoCab.Data.csproj.CoreCompileInputs.cache
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Data/obj/Debug/net7.0/Hackamole.DoctoCab.Data.csproj.CopyComplete
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Data/obj/Debug/net7.0/Hackamole.DoctoCab.Data.dll
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Data/obj/Debug/net7.0/refint/Hackamole.DoctoCab.Data.dll
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Data/obj/Debug/net7.0/Hackamole.DoctoCab.Data.pdb
+/Users/blopezgutierrez/code/ben/neta/Hackamole.DoctoCab.Api/Hackamole.DoctoCab.Data/obj/Debug/net7.0/ref/Hackamole.DoctoCab.Data.dll
