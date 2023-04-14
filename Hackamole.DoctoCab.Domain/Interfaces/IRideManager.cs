@@ -10,4 +10,6 @@ public interface IRideManager
     Ride GetRideBySurrogateId(Guid surrogateId);
 
     void UpdateRideAddress(Guid rideId, int addressId, GeoLocation location);
+
+    void UpdateRidePricing(Guid rideId, PricingEstimate pricingEstimate);
 }

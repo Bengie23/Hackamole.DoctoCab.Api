@@ -62,4 +62,12 @@ public class RideManager : IRideManager
 
         DbContext.SaveChanges();
     }
+
+    public void UpdateRidePricing(Guid rideId, PricingEstimate pricingEstimate)
+    {
+        var ride = DbContext.Ride.Include(x => x.PricingEstimate).FirstOrDefault(ride => ride.Id == rideId);
+        ride.PricingEstimate = pricingEstimate;
+
+        DbContext.SaveChanges();
+    }
 }

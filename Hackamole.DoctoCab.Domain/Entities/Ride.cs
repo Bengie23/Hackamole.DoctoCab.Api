@@ -11,5 +11,6 @@ public class Ride
 
     public ICollection<Address> Locations { get; set; }
 
+    public PricingEstimate? PricingEstimate { get; set; }
     public Guid SurrogateId { get; set; }
 }
